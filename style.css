@@ -1,0 +1,60 @@
+@import url('./css/reset.css');
+@import url('./css/info-perfil.css');
+@import url('./css/navbar.css');
+@import url('./css/destaques.css');
+@import url('./css/atividades.css');
+@import url('./css/sobre.css');
+@import url('./css/experiencias.css');
+@import url('./css/formacao.css');
+@import url('./css/idiomas.css');
+
+
+body {
+    background-color: var(--fundo-escuro);
+}
+
+a {
+    color: var(--primario);
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.botao-primario {
+    background-color: var(--primario);
+}
+
+.botao-secundario {
+    background: transparent;
+    color: var(--primario);
+    border: 1px solid var(--primario);
+}
+
+.navbar {
+    width: auto;
+    height: 52px;
+    background-color: var(--fundo-card);
+}
+
+.nav-menu {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem 2rem;
+}
+
+.navbar-busca-icone {
+    width: 20px;
+    height: 20px;
+    background-image: url('./images/icone-busca.svg');
+    position: absolute;
+    margin-left: 10px;
+}
