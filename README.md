@@ -1,10 +1,11 @@
 
-
+![7daysofcode](https://user-images.githubusercontent.com/96800792/194912787-c845b412-ace0-49ce-91a1-4139e745c1aa.png)
 
 
 # Dia 1 - Seção de informações do perfil
 
 Fazer o esqueleto básico do HTML e recomendação de leitura:
+
 [O que é Reset?](https://www.alura.com.br/artigos/o-que-e-reset-css?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+HTML+e+CSS+1%2F7%3A+Se%C3%A7%C3%A3o+de+informa%C3%A7%C3%B5es+do+perfil&utm_campaign=%5BAlura+%237Days+of+Code%5D%28HTML+++CSS+-+2%C2%AA+ed+%29+Dia+1%2F7&vgo_ee=T4WKX7u1M78Hp4BEYFsjOUMl%2B1CfhNx2%2BabVIBwH134%3D)
 
 [Como construir um CSS com variáveis nativas](https://www.alura.com.br/artigos/construa-css-magico-variaveis-nativas?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+HTML+e+CSS+1%2F7%3A+Se%C3%A7%C3%A3o+de+informa%C3%A7%C3%B5es+do+perfil&utm_campaign=%5BAlura+%237Days+of+Code%5D%28HTML+++CSS+-+2%C2%AA+ed+%29+Dia+1%2F7&vgo_ee=T4WKX7u1M78Hp4BEYFsjOUMl%2B1CfhNx2%2BabVIBwH134%3D)
